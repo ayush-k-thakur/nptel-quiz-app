@@ -5,6 +5,7 @@ import { QuizCard } from './components/QuizCard';
 import { Quiz } from './components/Quiz';
 import { QuizResult } from './components/QuizResult';
 import { quizSections } from './data/quizData';
+import { courseName } from './data/quizData';
 
 function App() {
   const [selectedSection, setSelectedSection] = useState(null);
@@ -58,7 +59,7 @@ function App() {
           animate={{ opacity: 1, y: 0 }}
           className="text-4xl mt-[100px] font-bold text-purple-100 text-center mb-12"
         >
-          Conservation Economics Quiz
+          {courseName + " " + "Quiz"} 
         </motion.h1>
         
         <div className="grid grid-cols-2 lg:grid-cols-3 gap-6">

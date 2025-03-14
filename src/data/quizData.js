@@ -864,3 +864,5 @@ export const quizSections = [
     ],
   },
 ]
+
+export const courseName = "Conservation Economics";
