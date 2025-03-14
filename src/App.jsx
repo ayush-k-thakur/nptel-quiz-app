@@ -58,7 +58,7 @@ function App() {
           animate={{ opacity: 1, y: 0 }}
           className="text-4xl mt-[100px] font-bold text-purple-100 text-center mb-12"
         >
-          Interactive Quiz Sections
+          Conservation Economics Quiz
         </motion.h1>
         
         <div className="grid grid-cols-2 lg:grid-cols-3 gap-6">
