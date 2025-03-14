@@ -55,7 +55,7 @@ export const Quiz = ({ questions, onComplete, onBack }) => {
               className={`w-full p-4 rounded-lg text-left transition-all duration-300 ${
                 selectedOption === index
                   ? 'bg-purple-700/80 text-purple-100 border-purple-400 hover'
-                  : 'bg-purple-800/30 text-white-300 hover:bg-purple-800/50 border-transparent'
+                  : 'bg-purple-800/30 text-white hover:bg-purple-800/50 border-transparent'
               } border`}
             >
               {option}
