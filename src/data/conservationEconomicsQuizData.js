@@ -766,7 +766,7 @@ export const quizSections = [
           "SMB = PMB + MB",
           "SMC = PMC / MD",
         ],
-        answer_index: 2,
+        answer_index: 0,
       },
       {
         id: 3,
@@ -863,6 +863,114 @@ export const quizSections = [
       },
     ],
   },
-]
+  {
+    id: 9,
+    title: "Quiz 9",
+    questions: [
+      {
+        id: 1,
+        question:
+          "Costs that have already been committed and cannot be recovered are",
+        options: [
+          "Fixed costs",
+          "Variable costs",
+          "Marginal costs",
+          "Sunk costs",
+        ],
+        answer_index: 3,
+      },
+      {
+        id: 2,
+        question:
+          "Total revenue minus total cost, including both explicit and implicit costs, is a definition of",
+        options: ["Economic profit", "Accounting profit", "Profit", "Loss"],
+        answer_index: 0,
+      },
+      {
+        id: 3,
+        question:
+          "The increase in total cost that arises from an extra unit of production is",
+        options: [
+          "Fixed costs",
+          "Variable costs",
+          "Marginal costs",
+          "Sunk costs",
+        ],
+        answer_index: 2,
+      },
+      {
+        id: 4,
+        question: "A monopolist firm’s profit is given by",
+        options: [
+          "(Price - ATC) × Q",
+          "(Price - Q) × ATC",
+          "(ATC - Q) × Price",
+          "Price × Q - ATC",
+        ],
+        answer_index: 0,
+      },
+      {
+        id: 5,
+        question: "Which of the following is true for a competitive firm?",
+        options: ["P > MR", "P > MC", "MR > MC", "MR = MC"],
+        answer_index: 3,
+      },
+      {
+        id: 6,
+        question:
+          "The amount a firm receives for the sale of its output is a definition of",
+        options: ["Total revenue", "Total cost", "Profit", "Loss"],
+        answer_index: 0,
+      },
+      {
+        id: 7,
+        question:
+          "When the cost of production for a single firm is much lesser than the cost of production for competitive firms, we have a/an",
+        options: [
+          "Natural monopoly",
+          "Artificial monopoly",
+          "Oligopoly",
+          "Duopoly",
+        ],
+        answer_index: 0,
+      },
+      {
+        id: 8,
+        question:
+          "Costs that do not vary with the quantity of output produced are",
+        options: [
+          "Fixed costs",
+          "Variable costs",
+          "Marginal costs",
+          "Sunk costs",
+        ],
+        answer_index: 0,
+      },
+      {
+        id: 9,
+        question: "Costs that vary with the quantity of output produced are",
+        options: [
+          "Fixed costs",
+          "Variable costs",
+          "Marginal costs",
+          "Sunk costs",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 10,
+        question:
+          "The increase in output that arises from an additional unit of input is",
+        options: [
+          "Marginal product",
+          "Marginal profit",
+          "Marginal loss",
+          "Marginal cost",
+        ],
+        answer_index: 0,
+      },
+    ],
+  },
+];
 
 export const courseName = "Conservation Economics";
