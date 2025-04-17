@@ -10,7 +10,7 @@ import ConservationGeography from "./components/ConservationGeography";
 
 function CoursesPage() {
   return (
-    <div className="p-8">
+    <div className="p-8 h-[115vh]">
       <motion.h1
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
@@ -18,12 +18,12 @@ function CoursesPage() {
       >
       NPTEL Assignments
       </motion.h1>
-      <div className="max-w-6xl mx-auto relative top-[-50px]">
-        <div className="grid grid-cols-2 lg:grid-cols-3 gap-6">
+      <div className="max-w-6xl mx-auto relative mt-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-6">
           <AnimatePresence>
             {courses.map((section, index) => (
               <Link to={courseRoutes[index]} key={index}>
-                <CourseCard key={index} course={courses[index]} />
+                <CourseCard className="top-[-150px]" key={index} course={courses[index]} />
               </Link>
             ))}
           </AnimatePresence>

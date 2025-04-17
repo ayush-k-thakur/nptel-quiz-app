@@ -6,7 +6,7 @@ export const CourseCard = ({ course }) => {
     <motion.div
       whileHover={{ scale: 1.05 }}
       whileTap={{ scale: 0.95 }}
-      className="mt-32 backdrop-blur-sm rounded-lg p-6 cursor-pointer hover:bg-purple-800/60 transition-all duration-300 border border-purple-400/30"
+      className="backdrop-blur-sm rounded-lg p-6 cursor-pointer hover:bg-purple-800/60 transition-all duration-300 border border-purple-400/30"
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.3 }}

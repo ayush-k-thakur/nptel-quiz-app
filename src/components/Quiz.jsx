@@ -26,7 +26,7 @@ export const Quiz = ({ questions, onComplete, onBack }) => {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
-      className="mt-[100px] max-w-2xl mx-auto p-6"
+      className="mt-[100px] max-w-2xl mx-auto p-6 h-[100vh]"
     >
       <button
         onClick={onBack}

@@ -5,7 +5,7 @@ export const QuizResult = ({ score, totalQuestions, onBack }) => {
   const percentage = (score / totalQuestions) * 100;
 
   return (
-    <div className="h-[100vh] flex items-center justify-center">
+    <div className="h-[115vh] flex items-center justify-center p-5">
       <div className="w-[400px] backdrop-blur-xs rounded-lg p-8 text-center border border-purple-700/30">
         <h2 className="text-3xl font-bold text-purple-100 mb-4">
           Quiz Complete!
