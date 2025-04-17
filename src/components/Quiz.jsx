@@ -40,7 +40,7 @@ export const Quiz = ({ questions, onComplete, onBack }) => {
           <p className="text-purple-300 mb-2">
             Question {currentQuestion + 1} of {questions.length}
           </p>
-          <h2 className="text-2xl font-bold text-purple-100">
+          <h2 className="text-xl lg:text-2xl font-bold text-purple-100">
             {questions[currentQuestion].question}
           </h2>
         </div>

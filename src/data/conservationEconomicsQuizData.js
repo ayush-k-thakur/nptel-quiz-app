@@ -971,6 +971,342 @@ export const quizSections = [
       },
     ],
   },
+  {
+    id: 10,
+    title: "Quiz 10",
+    questions: [
+      {
+        id: 1,
+        question:
+          "“An absolute level of income set by the government for each family size below which a family is deemed to be in poverty” is known as",
+        options: [
+          "deprivation line",
+          "poverty line",
+          "deprivation index",
+          "poverty index",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 2,
+        question: "Absolute poverty depends",
+        options: [
+          "on income but not on access to social services",
+          "not on income but on access to social services",
+          "on income and on access to social services",
+          "neither on income nor on access to social services",
+        ],
+        answer_index: 2,
+      },
+      {
+        id: 3,
+        question:
+          "“The equipment and structures used to produce goods and services” is the definition of",
+        options: ["tools", "machinery", "capital", "factors of production"],
+        answer_index: 2,
+      },
+      {
+        id: 4,
+        question:
+          "“Above-equilibrium wages paid by firms to increase worker productivity” are known as",
+        options: [
+          "compensating wage",
+          "efficiency wage",
+          "productivity wage",
+          "retention wage",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 5,
+        question:
+          "“Government policy aimed at protecting people against the risk of adverse events” is",
+        options: [
+          "Social protection",
+          "Social insurance",
+          "Social security",
+          "Socialism",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 6,
+        question:
+          "“A difference in wages that arises to offset the non-monetary characteristics of different jobs” is known as",
+        options: [
+          "differentiating differential",
+          "compensating differential",
+          "differentiating integral",
+          "compensating integral",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 7,
+        question: "For a competitive and profit-maximising firm,",
+        options: [
+          "each factor’s rental price < the value of the marginal product for that factor",
+          "each factor’s rental price = the value of the marginal product for that factor",
+          "each factor’s rental price > the value of the marginal product for that factor",
+          "each factor’s rental price = the value of the average product for that factor",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 8,
+        question:
+          "“A condition characterised by severe deprivation of basic human needs, including food, safe drinking water, sanitation facilities, health, shelter, education and information” is known as",
+        options: [
+          "absolute poverty",
+          "relative poverty",
+          "median poverty",
+          "poverty line",
+        ],
+        answer_index: 0,
+      },
+      {
+        id: 9,
+        question:
+          "“A condition where a household’s income is lower than the median income in the particular country” is known as",
+        options: [
+          "absolute poverty",
+          "relative poverty",
+          "median poverty",
+          "poverty line",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 10,
+        question:
+          "“The increase in the amount of output from an additional unit of labor” is",
+        options: [
+          "marginal product of labour",
+          "marginal product of input",
+          "average product of labour",
+          "average product of input",
+        ],
+        answer_index: 0,
+      },
+    ],
+  },
+  {
+    id: 11,
+    title: "Quiz 11",
+    questions: [
+      {
+        id: 1,
+        question:
+          "“An action taken by an uninformed party to induce an informed party to reveal information” is known as",
+        options: ["signalling", "screening", "informing", "heuristics"],
+        answer_index: 1,
+      },
+      {
+        id: 2,
+        question:
+          "“The part of actual resources that can be developed profitably in the future” are",
+        options: [
+          "potential resources",
+          "actual resources",
+          "reserve resources",
+          "stock resources",
+        ],
+        answer_index: 2,
+      },
+      {
+        id: 3,
+        question:
+          "“The limit on the consumption bundles that a consumer can afford” is known as",
+        options: [
+          "consumption constraint",
+          "budget constraint",
+          "bundle constraint",
+          "affordability constraint",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 4,
+        question:
+          "“Mental short cut using emotion (gut feeling) to influences the decision” is",
+        options: [
+          "affect heuristic",
+          "availability heuristic",
+          "effort heuristic",
+          "familiarity heuristic",
+        ],
+        answer_index: 0,
+      },
+      {
+        id: 5,
+        question:
+          "“Those resources that are currently being used after surveying, quantification and qualification” are",
+        options: [
+          "potential resources",
+          "actual resources",
+          "reserve resources",
+          "stock resources",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 6,
+        question:
+          "“The change in consumption that results when a price change moves the consumer along a given indifference curve to a point with a new marginal rate of substitution” is known as",
+        options: [
+          "income effect",
+          "substitution effect",
+          "indifference effect",
+          "budget effect",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 7,
+        question:
+          "An inferior good whose demand increases with price is called as",
+        options: ["Normal good", "Veblen good", "Giffen good", "Demand good"],
+        answer_index: 2,
+      },
+      {
+        id: 8,
+        question: "Which of these is not a property of indifference curves?",
+        options: [
+          "Higher indifference curves are preferred to lower ones",
+          "Indifference curves are downward-sloping",
+          "Indifference curves cross at right angles",
+          "Indifference curves are bowed inwards",
+        ],
+        answer_index: 2,
+      },
+      {
+        id: 9,
+        question:
+          "“An action taken by an informed party to reveal private information to an uninformed party” is known as",
+        options: ["signalling", "screening", "informing", "heuristics"],
+        answer_index: 0,
+      },
+      {
+        id: 10,
+        question:
+          "“Simple strategies or mental processes used to quickly form judgments, make decisions, and find solutions to complex problems” is known as",
+        options: ["signalling", "screening", "informing", "heuristics"],
+        answer_index: 3,
+      },
+    ],
+  },
+  {
+    id: 12,
+    title: "Quiz 12",
+    questions: [
+      {
+        id: 1,
+        question:
+          "As per Wildlife Protection Act 1972 (WPA 1972), wild life includes any animal, aquatic or land vegetation which forms part of any _____ .",
+        options: ["ecosystem", "state", "country", "habitat"],
+        answer_index: 3,
+      },
+      {
+        id: 2,
+        question:
+          "The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as",
+        options: [
+          "umbrella species",
+          "keystone species",
+          "flagship species",
+          "all of the above",
+        ],
+        answer_index: 3,
+      },
+      {
+        id: 3,
+        question: "Soil formation is an example of",
+        options: [
+          "provisioning service",
+          "regulating service",
+          "supporting service",
+          "cultural service",
+        ],
+        answer_index: 2,
+      },
+      {
+        id: 4,
+        question: "Zoo is an example of",
+        options: [
+          "in-situ conservation",
+          "ex-situ conservation",
+          "in-situ preservation",
+          "ex-situ preservation",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 5,
+        question:
+          "The fig tree bears fruits in times when animals do not have much access to food. In this context, it would be a good example of",
+        options: [
+          "least concern species",
+          "keystone species",
+          "flagship species",
+          "extinct species",
+        ],
+        answer_index: 1,
+      },
+      {
+        id: 6,
+        question: "Nutrient cycling is an example of",
+        options: [
+          "provisioning service",
+          "regulating service",
+          "supporting service",
+          "cultural service",
+        ],
+        answer_index: 2,
+      },
+      {
+        id: 7,
+        question:
+          "People come to Sessa orchid sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as",
+        options: [
+          "umbrella species",
+          "keystone species",
+          "flagship species",
+          "extinct species",
+        ],
+        answer_index: 2,
+      },
+      {
+        id: 8,
+        question:
+          "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+        options: ["very high", "medium", "very low", "non-existent"],
+        answer_index: 1,
+      },
+      {
+        id: 9,
+        question:
+          "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
+        options: [
+          "umbrella species",
+          "keystone species",
+          "flagship species",
+          "all of the above",
+        ],
+        answer_index: 3,
+      },
+      {
+        id: 10,
+        question: "Biological control of pest populations is an example of",
+        options: [
+          "provisioning service",
+          "regulating service",
+          "supporting service",
+          "cultural service",
+        ],
+        answer_index: 1,
+      },
+    ],
+  },
 ];
 
 export const courseName = "Conservation Economics";
