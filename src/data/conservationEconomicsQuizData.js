@@ -407,7 +407,7 @@ export const quizSections = [
           "demand-supply equilibrium",
           "pricing",
         ],
-        correct_answer: "elasticity",
+        correct_answer: "0",
       },
       {
         id: 2,
@@ -419,7 +419,7 @@ export const quizSections = [
           "production advantage",
           "resource advantage",
         ],
-        correct_answer: "absolute advantage",
+        correct_answer: "1",
       },
       {
         id: 3,
@@ -430,7 +430,7 @@ export const quizSections = [
           "excludable, non-rival in consumption",
           "non-excludable, non-rival in consumption",
         ],
-        correct_answer: "non-excludable, rival in consumption",
+        correct_answer: "1",
       },
       {
         id: 4,
@@ -442,7 +442,7 @@ export const quizSections = [
           "Coase theorem",
           "Nash theorem",
         ],
-        correct_answer: "Coase theorem",
+        correct_answer: "2",
       },
       {
         id: 5,
@@ -454,7 +454,7 @@ export const quizSections = [
           "Futuristic development",
           "Gandhian development",
         ],
-        correct_answer: "Sustainable development",
+        correct_answer: "1",
       },
       {
         id: 6,
@@ -465,7 +465,7 @@ export const quizSections = [
           "excludable, non-rival in consumption",
           "non-excludable, non-rival in consumption",
         ],
-        correct_answer: "excludable, non-rival in consumption",
+        correct_answer: "2",
       },
       {
         id: 7,
@@ -477,7 +477,7 @@ export const quizSections = [
           "command-and-control policies",
           "free market",
         ],
-        correct_answer: "free market",
+        correct_answer: "3",
       },
       {
         id: 8,
@@ -488,14 +488,14 @@ export const quizSections = [
           "excludable, non-rival in consumption",
           "non-excludable, non-rival in consumption",
         ],
-        correct_answer: "excludable, rival in consumption",
+        correct_answer: "0",
       },
       {
         id: 9,
         question:
           "A simplified description, especially a mathematical one, of a system or process, to assist calculations and predictions is the definition of a/an",
         options: ["equation", "model", "philosophy", "process dynamics"],
-        correct_answer: "model",
+        correct_answer: "1",
       },
       {
         id: 10,
@@ -507,7 +507,7 @@ export const quizSections = [
           "internality",
           "benefits principle",
         ],
-        correct_answer: "externality",
+        correct_answer: "1",
       },
     ],
   },
@@ -525,7 +525,7 @@ export const quizSections = [
           "law of quantity demanded",
           "law of quantity supplied",
         ],
-        correct_answer: "law of demand",
+        correct_answer: "0",
       },
       {
         id: 2,
@@ -536,14 +536,14 @@ export const quizSections = [
           "selling ceiling",
           "selling floor",
         ],
-        correct_answer: "price ceiling",
+        correct_answer: "0",
       },
       {
         id: 3,
         question:
           "A good for which, other things being equal, an increase in income leads to a decrease in demand is",
         options: ["normal good", "inferior good", "Giffen good", "common good"],
-        correct_answer: "inferior good",
+        correct_answer: "1",
       },
       {
         id: 4,
@@ -555,7 +555,7 @@ export const quizSections = [
           "supply table",
           "supply schedule",
         ],
-        correct_answer: "supply schedule",
+        correct_answer: "3",
       },
       {
         id: 5,
@@ -567,7 +567,7 @@ export const quizSections = [
           "Laffer's curve",
           "Phillips curve",
         ],
-        correct_answer: "demand curve",
+        correct_answer: "0",
       },
       {
         id: 6,
@@ -579,7 +579,7 @@ export const quizSections = [
           "supply table",
           "supply schedule",
         ],
-        correct_answer: "demand schedule",
+        correct_answer: "1",
       },
       {
         id: 7,
@@ -591,20 +591,20 @@ export const quizSections = [
           "cross-price elasticity of demand",
           "price elasticity of supply",
         ],
-        correct_answer: "cross-price elasticity of demand",
+        correct_answer: "2",
       },
       {
         id: 8,
         question: "Rice and wheat are",
         options: ["substitutes", "complements", "club goods", "public goods"],
-        correct_answer: "substitutes",
+        correct_answer: "0",
       },
       {
         id: 9,
         question:
           "A good for which, other things being equal, an increase in income leads to an increase in demand is",
         options: ["normal good", "inferior good", "Giffen good", "common good"],
-        correct_answer: "normal good",
+        correct_answer: "0",
       },
       {
         id: 10,
@@ -616,7 +616,7 @@ export const quizSections = [
           "cross-price elasticity of demand",
           "price elasticity of supply",
         ],
-        correct_answer: "price elasticity of demand",
+        correct_answer: "0",
       },
     ],
   },
